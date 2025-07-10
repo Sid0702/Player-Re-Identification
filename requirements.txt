@@ -1,0 +1,12 @@
+opencv-python
+torch
+numpy
+ultralytics
+torchvision 
+scipy
+opencv-python
+torch
+torchvision
+numpy
+scipy
+pillow
